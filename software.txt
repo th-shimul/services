@@ -1,0 +1,7 @@
+1.Restorent      //full site(3) //admin panel(1)
+2.Blog site      //full site(3) //admin panel(1)
+3.Organization   //full site(1) //admin panel(1)
+4.Betting site   //full site(5) //admin panel(2)
+5.Ptc site       //full site(2) //admin panel(1)
+6.Ecommerce site //full site(1) //admin panel(1)
+7.Ftp service    //full site(10)//admin panel(1)
