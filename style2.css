@@ -447,5 +447,86 @@ footer{
 .nav .signin{
     margin: 0px 0 0 50px;
 }
-/* -----contact us full web page------ */
+/* -----All demo site------ */
 
+marquee{
+    margin-top: 5px;
+    background: #333333;
+    color: #fff;
+    border-radius: 0px;
+    padding: 8px;
+}
+.marquee p{
+    font-size: 20px;
+}
+.demo-contain{
+    color: #fff;
+    font-size: 22px;
+    padding: 5px;
+    background: #404040;
+}
+.demo-contain-1{
+    color: #fff;
+    margin-top: 5px;
+    font-size: 20.5px;
+    padding: 8px;
+    background: #333333;
+}
+.small-container{
+    max-width: 1080px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;}
+.col-4{
+flex-basis: 25%;
+padding: 10px;
+max-width: 200px;
+margin-bottom: 50px;
+transition: transrorm 0.5s;
+}
+.col-4 img{
+width: 100%;
+}
+.title{
+text-align: center;
+margin: 0 auto 80px;
+position: relative;
+line-height: 60px;
+color: #555;
+}
+.title::after{
+content: '';
+background: #f50843;
+width: 80px;
+height: 5px;
+border-radius: 5px;
+position: absolute;bottom: 0;
+left: 50%;
+transform: translate(-50%);
+}
+h4{
+color: #555;
+font-weight: normal;
+}
+.col-4 p{
+font-size: 14px;
+}
+.rating .fa{
+color: #ff523d;
+}
+
+.card-pro-btn{
+    border: none;
+    cursor: pointer;
+    display: block;
+    background: #f50843;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+    transition: background 0.5s;
+}
+.card-pro-btn a{
+    text-decoration: none;
+    color: #fff;
+}
